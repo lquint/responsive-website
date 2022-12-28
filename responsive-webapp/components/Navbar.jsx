@@ -1,7 +1,7 @@
-const Navbar = () => {
+const Navbar = function navbar() {
     return ( 
         <nav>
-            <p>TEST</p>
+            <p className="bg-green-500">TEST 2</p>
         </nav>
      );
 }
